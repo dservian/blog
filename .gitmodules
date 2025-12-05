@@ -1,0 +1,3 @@
+[submodule "dservianblog/public"]
+	path = dservianblog/public
+	url = git@github.com:dservian/dservian.github.io.git
