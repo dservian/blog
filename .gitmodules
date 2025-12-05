@@ -1,3 +1,6 @@
 [submodule "dservianblog/public"]
 	path = dservianblog/public
 	url = git@github.com:dservian/dservian.github.io.git
+[submodule "dservianblog/themes/hugo-theme-hello-friend-ng"]
+	path = dservianblog/themes/hugo-theme-hello-friend-ng
+	url = git@github.com:rhazdon/hugo-theme-hello-friend-ng.git
